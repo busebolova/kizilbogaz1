@@ -1,0 +1,268 @@
+{
+  "sections": [
+    {
+      "title": "SICAK İÇECEKLER",
+      "items": [
+        {
+          "id": "ay",
+          "name": "ÇAY",
+          "description": "",
+          "price": "25,00"
+        },
+        {
+          "id": "trk-kahvesi",
+          "name": "TÜRK KAHVESİ",
+          "description": "",
+          "price": "60,00"
+        },
+        {
+          "id": "amerikano",
+          "name": "AMERİKANO",
+          "description": "",
+          "price": "80,00"
+        },
+        {
+          "id": "latte",
+          "name": "LATTE",
+          "description": "",
+          "price": "90,00"
+        },
+        {
+          "id": "cappuccino",
+          "name": "CAPPUCCİNO",
+          "description": "",
+          "price": "90,00"
+        },
+        {
+          "id": "espresso",
+          "name": "ESPRESSO",
+          "description": "",
+          "price": "70,00"
+        },
+        {
+          "id": "mocha",
+          "name": "MOCHA",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "sicak-ikolata",
+          "name": "SICAK ÇİKOLATA",
+          "description": "",
+          "price": "80,00"
+        },
+        {
+          "id": "chai-latte",
+          "name": "CHAI LATTE",
+          "description": "",
+          "price": "90,00"
+        },
+        {
+          "id": "french-press",
+          "name": "FRENCH PRESS",
+          "description": "",
+          "price": "120,00"
+        }
+      ]
+    },
+    {
+      "title": "SOĞUK İÇECEKLER",
+      "items": [
+        {
+          "id": "taze-sikilmi-portakal-suyu",
+          "name": "TAZE SIKILMIŞ PORTAKAL SUYU",
+          "description": "",
+          "price": "70,00"
+        },
+        {
+          "id": "taze-sikilmi-limonata",
+          "name": "TAZE SIKILMIŞ LİMONATA",
+          "description": "",
+          "price": "60,00"
+        },
+        {
+          "id": "buzlu-amerikano",
+          "name": "BUZLU AMERİKANO",
+          "description": "",
+          "price": "80,00"
+        },
+        {
+          "id": "buzlu-latte",
+          "name": "BUZLU LATTE",
+          "description": "",
+          "price": "90,00"
+        },
+        {
+          "id": "cold-brew",
+          "name": "COLD BREW",
+          "description": "",
+          "price": "85,00"
+        },
+        {
+          "id": "frappuccino",
+          "name": "FRAPPUCCINO",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "buzlu-ay",
+          "name": "BUZLU ÇAY",
+          "description": "",
+          "price": "40,00"
+        },
+        {
+          "id": "limonlu-buzlu-ay",
+          "name": "LİMONLU BUZLU ÇAY",
+          "description": "",
+          "price": "50,00"
+        }
+      ]
+    },
+    {
+      "title": "FROZEN",
+      "items": [
+        {
+          "id": "frozen-latte",
+          "name": "FROZEN LATTE",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "frozen-mocha",
+          "name": "FROZEN MOCHA",
+          "description": "",
+          "price": "110,00"
+        },
+        {
+          "id": "frozen-cappuccino",
+          "name": "FROZEN CAPPUCCİNO",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "frozen-caramel",
+          "name": "FROZEN CARAMEL",
+          "description": "",
+          "price": "110,00"
+        }
+      ]
+    },
+    {
+      "title": "MİLKSHAKE",
+      "items": [
+        {
+          "id": "ilekli-milkshake",
+          "name": "ÇİLEKLİ MİLKSHAKE",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "muzlu-milkshake",
+          "name": "MUZLU MİLKSHAKE",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "ikolatali-milkshake",
+          "name": "ÇİKOLATALI MİLKSHAKE",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "vanilyali-milkshake",
+          "name": "VANİLYALI MİLKSHAKE",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "oreo-milkshake",
+          "name": "OREO MİLKSHAKE",
+          "description": "",
+          "price": "130,00"
+        }
+      ]
+    },
+    {
+      "title": "DONDURMA",
+      "items": [
+        {
+          "id": "vanilya",
+          "name": "VANİLYA",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "ikolata",
+          "name": "ÇİKOLATA",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "ilek",
+          "name": "ÇİLEK",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "karamel",
+          "name": "KARAMEL",
+          "description": "",
+          "price": "100,00"
+        },
+        {
+          "id": "fistik",
+          "name": "FISTIK",
+          "description": "",
+          "price": "110,00"
+        }
+      ]
+    },
+    {
+      "title": "TATLI VE PASTALAR",
+      "items": [
+        {
+          "id": "tiramisu",
+          "name": "TİRAMİSU",
+          "description": "",
+          "price": "150,00"
+        },
+        {
+          "id": "cheesecake",
+          "name": "CHEESECAKE",
+          "description": "",
+          "price": "140,00"
+        },
+        {
+          "id": "brownie",
+          "name": "BROWNIE",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "muffin",
+          "name": "MUFFIN",
+          "description": "",
+          "price": "80,00"
+        },
+        {
+          "id": "kurabiye",
+          "name": "KURABİYE",
+          "description": "",
+          "price": "60,00"
+        },
+        {
+          "id": "waffle",
+          "name": "WAFFLE",
+          "description": "",
+          "price": "150,00"
+        },
+        {
+          "id": "pankek",
+          "name": "PANKEK",
+          "description": "",
+          "price": "120,00"
+        }
+      ]
+    }
+  ]
+}
