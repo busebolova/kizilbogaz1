@@ -560,6 +560,15 @@
           "name": "PİYAZ",
           "description": "",
           "price": "200,00"
+        },
+        {
+          "id": "item-1760275048057",
+          "name": "PATLICAN MUSAKKA",
+          "description": "Pilav ve Söğüş ile servis edilmektedir",
+          "price": "400,00",
+          "category": "SULU YEMEKLER",
+          "image": "",
+          "ingredients": []
         }
       ]
     },
