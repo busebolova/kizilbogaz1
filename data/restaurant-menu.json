@@ -238,8 +238,10 @@
           "id": "atitirmalik-sepeti",
           "name": "ATIŞTIRMALIK SEPETİ",
           "description": "SOSİS, PATATES, SOĞAN HALKASI, MOZARELLA STİCKS, ÇITIR TAVUK",
-          "price": "270,00",
-          "image": "/images/atistirmalik-sepeti.jpg"
+          "price": "300,00",
+          "image": "/images/atistirmalik-sepeti.jpg",
+          "category": "ARA SICAKLAR",
+          "sectionTitle": "ARA SICAKLAR"
         },
         {
           "id": "tereyali-karides-tava",
