@@ -56,9 +56,11 @@
         {
           "id": "serpme-kahvalti-2kiilik",
           "name": "SERPME KAHVALTI (2KİŞİLİK)",
-          "description": "EZİNE PEYNİR, BERGAMA TULUM, KAŞAR PEYNİR, ÇEÇİL PEYNİR, KÖY PEYNİRİ, ELALI ZEYTİN, KIRMA ZEYTİN, BİBER DOLGULU ZEYTİN, PEYNİR DOLGULU KÖZ BİBER, PETEK BAL, KAYMAK, NUTELLA, FINDIK EZMESİ, GÜL REÇELİ, ÇİLEK REÇELİ, MEYVELİ YOĞURT, DANA JAMBON, DANA SALAM, TAZE YEŞİLLİKLER, DOMATES, SALATALIK, BİBER, PATATES TAVA, PİŞİ, PANKEK, YUMURTALI EKMEK, SARIMSAKLI EKMEK, KURU İNCİR, KURU KAYISI, CEVİZ, İNCİR KAVURMASI, 1 ADET SEÇMELİ OMLET VEYA YUMURTA. EK SERVİS ÜCRETİ KİŞİ BAŞI 100 TL",
+          "description": "EZİNE PEYNİR, BERGAMA TULUM, KAŞAR PEYNİR, ÇEÇİL PEYNİR, KÖY PEYNİRİ, ELALI ZEYTİN, KIRMA ZEYTİN, BİBER DOLGULU ZEYTİN, PEYNİR DOLGULU KÖZ BİBER, PETEK BAL, KAYMAK, NUTELLA, FINDIK EZMESİ, GÜL REÇELİ, ÇİLEK REÇELİ, DANA JAMBON, DANA SALAM, TAZE YEŞİLLİKLER, DOMATES, SALATALIK, BİBER, PATATES TAVA, PİŞİ, PANKEK, YUMURTALI EKMEK, SARIMSAKLI EKMEK, KURU İNCİR, KURU KAYISI, CEVİZ, İNCİR KAVURMASI, 1 ADET SEÇMELİ OMLET VEYA YUMURTA. EK SERVİS ÜCRETİ KİŞİ BAŞI 100 TL",
           "price": "800,00",
-          "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_1189.JPG-hhegebtuLjWYQMNvNKeuUmFAeRMXWB.jpeg"
+          "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_1189.JPG-hhegebtuLjWYQMNvNKeuUmFAeRMXWB.jpeg",
+          "category": "KAHVALTILIK",
+          "sectionTitle": "KAHVALTILIK"
         },
         {
           "id": "sicak-kahvalti-tabai",
