@@ -565,13 +565,6 @@
       "title": "MAKARNALAR",
       "items": [
         {
-          "id": "fettucine-di-mare",
-          "name": "FETTUCİNE Dİ MARE",
-          "description": "KARİDES, KURU DOMATES, KREMA, PESTO SOS, PARMESAN PEYNİR",
-          "price": "400,00",
-          "image": "/images/fettucine-di-mare-final.jpg"
-        },
-        {
           "id": "penne-arabiatta",
           "name": "PENNE ARABİATTA",
           "description": "ARABİATTA SOS, SİYAH ZEYTİN DİLİMLERİ, PARMESAN PEYNİR",
