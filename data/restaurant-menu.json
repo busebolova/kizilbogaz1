@@ -261,8 +261,10 @@
           "id": "chicken-tenders",
           "name": "CHİCKEN TENDERS",
           "description": "",
-          "price": "220,00",
-          "image": "/images/chicken-tenders.jpg"
+          "price": "250,00",
+          "image": "/images/chicken-tenders.jpg",
+          "category": "ARA SICAKLAR",
+          "sectionTitle": "ARA SICAKLAR"
         },
         {
           "id": "eritme-cheddarli-patates-tava",
