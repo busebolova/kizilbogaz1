@@ -588,7 +588,10 @@
           "id": "fettuchini-alfredo",
           "name": "FETTUCHİNİ ALFREDO",
           "description": "KREMA, JÜLYEN TAVUK DİLİMLERİ, MANTAR, PESTO SOS, PARMESAN PEYNİR",
-          "price": "350,00"
+          "price": "350,00",
+          "category": "MAKARNALAR",
+          "sectionTitle": "MAKARNALAR",
+          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760271881595-WhatsApp Image 2025-10-12 at 15.24.19.jpeg"
         }
       ]
     }
