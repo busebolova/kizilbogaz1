@@ -546,7 +546,10 @@
           "id": "pilav-eitleri",
           "name": "PİLAV ÇEŞİTLERİ",
           "description": "",
-          "price": "120,00"
+          "price": "120,00",
+          "category": "SULU YEMEKLER",
+          "sectionTitle": "SULU YEMEKLER",
+          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274599999-WhatsApp Image 2025-10-12 at 16.09.45.jpeg"
         },
         {
           "id": "piyaz",
