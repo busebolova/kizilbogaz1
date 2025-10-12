@@ -25,8 +25,10 @@
           "id": "tavuk",
           "name": "TAVUK",
           "description": "",
-          "price": "160,00",
-          "image": "/images/tavuk-corbasi.jpg"
+          "price": "180,00",
+          "image": "/images/tavuk-corbasi.jpg",
+          "category": "ÇORBA",
+          "sectionTitle": "ÇORBA"
         },
         {
           "id": "kelle-paa",
