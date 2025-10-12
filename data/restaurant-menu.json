@@ -530,7 +530,8 @@
           "description": "Pilav ve Söğüş ile servis edilmektedir",
           "price": "400,00",
           "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER"
+          "sectionTitle": "SULU YEMEKLER",
+          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274082423-WhatsApp Image 2025-10-12 at 16.00.50.jpeg"
         },
         {
           "id": "et-yemekleri",
