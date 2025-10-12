@@ -593,6 +593,15 @@
           "category": "MAKARNALAR",
           "sectionTitle": "MAKARNALAR",
           "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760271881595-WhatsApp Image 2025-10-12 at 15.24.19.jpeg"
+        },
+        {
+          "id": "item-1760274909772",
+          "name": "MAC@CHEESE",
+          "description": "",
+          "price": "350,00",
+          "category": "MAKARNALAR",
+          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274896222-WhatsApp Image 2025-10-12 at 16.14.48.jpeg",
+          "ingredients": []
         }
       ]
     }
