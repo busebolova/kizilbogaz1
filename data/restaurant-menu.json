@@ -479,8 +479,10 @@
         {
           "id": "ankara-usul-ilikli-kavurma",
           "name": "ANKARA USULÜ İLİKLİ KAVURMA",
-          "description": "",
-          "price": "350,00"
+          "description": "Pilav ve Söğüş ile servis edilmektedir",
+          "price": "500,00",
+          "category": "SULU YEMEKLER",
+          "sectionTitle": "SULU YEMEKLER"
         },
         {
           "id": "kuru-fasulye",
