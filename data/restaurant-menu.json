@@ -496,7 +496,8 @@
           "description": "Pilav ve Söğüş ile servis edilmektedir",
           "price": "300,00",
           "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER"
+          "sectionTitle": "SULU YEMEKLER",
+          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760273885369-WhatsApp Image 2025-10-12 at 15.57.35.jpeg"
         },
         {
           "id": "taze-fasulye",
