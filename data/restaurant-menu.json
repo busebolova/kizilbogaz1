@@ -7,46 +7,48 @@
           "id": "mercimek",
           "name": "MERCİMEK",
           "description": "",
-          "price": "160,00",
-          "image": "/images/mercimek-corbasi.jpg",
-          "category": "ÇORBA",
-          "sectionTitle": "ÇORBA"
+          "price": "140,00",
+          "image": "/images/mercimek-corbasi.jpg"
         },
         {
           "id": "ezogelin",
           "name": "EZOGELİN",
           "description": "",
-          "price": "160,00",
-          "image": "/images/ezogelin-corbasi.jpg",
-          "category": "ÇORBA",
-          "sectionTitle": "ÇORBA"
+          "price": "140,00",
+          "image": "/images/ezogelin-corbasi.jpg"
         },
         {
           "id": "tavuk",
           "name": "TAVUK",
           "description": "",
-          "price": "180,00",
-          "image": "/images/tavuk-corbasi.jpg",
-          "category": "ÇORBA",
-          "sectionTitle": "ÇORBA"
+          "price": "160,00",
+          "image": "/images/tavuk-corbasi.jpg"
         },
         {
           "id": "kelle-paa",
           "name": "KELLE PAÇA",
           "description": "",
-          "price": "200,00",
-          "image": "/images/kelle-paca-corbasi.jpg",
-          "category": "ÇORBA",
-          "sectionTitle": "ÇORBA"
+          "price": "180,00",
+          "image": "/images/kelle-paca-corbasi.jpg"
         },
         {
           "id": "ikembe",
           "name": "İŞKEMBE",
           "description": "",
-          "price": "200,00",
-          "image": "/images/iskembe-corbasi.jpg",
-          "category": "ÇORBA",
-          "sectionTitle": "ÇORBA"
+          "price": "180,00",
+          "image": "/images/iskembe-corbasi.jpg"
+        },
+        {
+          "id": "tarhana",
+          "name": "TARHANA",
+          "description": "",
+          "price": "120,00"
+        },
+        {
+          "id": "kremali-sebze-orbasi",
+          "name": "KREMALI SEBZE ÇORBASI",
+          "description": "",
+          "price": "160,00"
         }
       ]
     },
@@ -56,37 +58,29 @@
         {
           "id": "serpme-kahvalti-2kiilik",
           "name": "SERPME KAHVALTI (2KİŞİLİK)",
-          "description": "EZİNE PEYNİR, BERGAMA TULUM, KAŞAR PEYNİR, ÇEÇİL PEYNİR, KÖY PEYNİRİ, ELALI ZEYTİN, KIRMA ZEYTİN, BİBER DOLGULU ZEYTİN, PEYNİR DOLGULU KÖZ BİBER, PETEK BAL, KAYMAK, NUTELLA, FINDIK EZMESİ, GÜL REÇELİ, ÇİLEK REÇELİ, DANA JAMBON, DANA SALAM, TAZE YEŞİLLİKLER, DOMATES, SALATALIK, BİBER, PATATES TAVA, PİŞİ, PANKEK, YUMURTALI EKMEK, SARIMSAKLI EKMEK, KURU İNCİR, KURU KAYISI, CEVİZ, İNCİR KAVURMASI, 1 ADET SEÇMELİ OMLET VEYA YUMURTA. EK SERVİS ÜCRETİ KİŞİ BAŞI 100 TL",
+          "description": "EZİNE PEYNİR, BERGAMA TULUM, KAŞAR PEYNİR, ÇEÇİL PEYNİR, KÖY PEYNİRİ, ELALI ZEYTİN, KIRMA ZEYTİN, BİBER DOLGULU ZEYTİN, PEYNİR DOLGULU KÖZ BİBER, PETEK BAL, KAYMAK, NUTELLA, FINDIK EZMESİ, GÜL REÇELİ, ÇİLEK REÇELİ, MEYVELİ YOĞURT, DANA JAMBON, DANA SALAM, TAZE YEŞİLLİKLER, DOMATES, SALATALIK, BİBER, PATATES TAVA, PİŞİ, PANKEK, YUMURTALI EKMEK, SARIMSAKLI EKMEK, KURU İNCİR, KURU KAYISI, CEVİZ, İNCİR KAVURMASI, 1 ADET SEÇMELİ OMLET VEYA YUMURTA. EK SERVİS ÜCRETİ KİŞİ BAŞI 100 TL",
           "price": "800,00",
-          "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_1189.JPG-hhegebtuLjWYQMNvNKeuUmFAeRMXWB.jpeg",
-          "category": "KAHVALTILIK",
-          "sectionTitle": "KAHVALTILIK"
+          "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_1189.JPG-hhegebtuLjWYQMNvNKeuUmFAeRMXWB.jpeg"
         },
         {
           "id": "sicak-kahvalti-tabai",
           "name": "SICAK KAHVALTI TABAĞI",
           "description": "KIZARMIŞ EKMEK, GÖZ YUMURTA, IZGARA SUCUK, IZGARA SOSİS, IZGARA JAMBON, IZGARA HELLİM, IZGARA MANTAR, IZGARA DOMATES, BAHARATLI PATATES TAVA",
-          "price": "350,00",
-          "image": "/images/sicak-kahvalti.jpg",
-          "category": "KAHVALTILIK",
-          "sectionTitle": "KAHVALTILIK"
+          "price": "300,00",
+          "image": "/images/sicak-kahvalti.jpg"
         },
         {
           "id": "pankek-kahvalti",
           "name": "PANKEK KAHVALTI",
           "description": "KIZARMIŞ EKMEK, PANKEK, SUCUK, GÖZ YUMURTA, IZGARA HELLİM, ÇEÇİL PEYNİR, KAŞAR PEYNİR, ÇERİ DOMATES, SALATALIK, ZEYTİN, BAL, NUTELLA, ÇİLEK REÇELİ, KİVİ, ÇİLEK, CEVİZ",
-          "price": "400,00",
-          "category": "KAHVALTILIK",
-          "sectionTitle": "KAHVALTILIK"
+          "price": "350,00"
         },
         {
           "id": "pii-kahvalti",
           "name": "PİŞİ KAHVALTI",
           "description": "PİŞİ, HAŞLANMIŞ YUMURTA, EZİNE PEYNİR, BERGAMA TULUM, ZEYTİN, TAZE YEŞİLLİKLER, DOMATES, SALATALIK",
-          "price": "270,00",
-          "image": "/images/pisi-kahvalti.jpg",
-          "category": "KAHVALTILIK",
-          "sectionTitle": "KAHVALTILIK"
+          "price": "250,00",
+          "image": "/images/pisi-kahvalti.jpg"
         },
         {
           "id": "maydanozlu-peynirli-omlet",
@@ -171,6 +165,12 @@
           "image": "/images/kasarli-tost.jpg"
         },
         {
+          "id": "kariik-tost",
+          "name": "KARIŞIK TOST",
+          "description": "",
+          "price": "180,00"
+        },
+        {
           "id": "kavurmali-kaarli-tost",
           "name": "KAVURMALI KAŞARLI TOST",
           "description": "",
@@ -240,10 +240,8 @@
           "id": "atitirmalik-sepeti",
           "name": "ATIŞTIRMALIK SEPETİ",
           "description": "SOSİS, PATATES, SOĞAN HALKASI, MOZARELLA STİCKS, ÇITIR TAVUK",
-          "price": "300,00",
-          "image": "/images/atistirmalik-sepeti.jpg",
-          "category": "ARA SICAKLAR",
-          "sectionTitle": "ARA SICAKLAR"
+          "price": "270,00",
+          "image": "/images/atistirmalik-sepeti.jpg"
         },
         {
           "id": "tereyali-karides-tava",
@@ -263,10 +261,8 @@
           "id": "chicken-tenders",
           "name": "CHİCKEN TENDERS",
           "description": "",
-          "price": "250,00",
-          "image": "/images/chicken-tenders.jpg",
-          "category": "ARA SICAKLAR",
-          "sectionTitle": "ARA SICAKLAR"
+          "price": "220,00",
+          "image": "/images/chicken-tenders.jpg"
         },
         {
           "id": "eritme-cheddarli-patates-tava",
@@ -307,10 +303,7 @@
           "name": "ANTRİKOT FAJİTA",
           "description": "",
           "price": "550,00",
-          "weight": "180GR",
-          "category": "KIRMIZI ETLER",
-          "sectionTitle": "KIRMIZI ETLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760272645895-WhatsApp Image 2025-10-12 at 15.37.14.jpeg"
+          "weight": "180GR"
         },
         {
           "id": "hnkar-beendi",
@@ -330,10 +323,7 @@
           "id": "beef-straganoff",
           "name": "BEEF STRAGANOFF",
           "description": "",
-          "price": "550,00",
-          "category": "KIRMIZI ETLER",
-          "sectionTitle": "KIRMIZI ETLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760272538719-WhatsApp Image 2025-10-12 at 15.35.25.jpeg"
+          "price": "550,00"
         },
         {
           "id": "itir-biftek",
@@ -385,10 +375,8 @@
           "id": "kizilboaz-kavurma",
           "name": "KIZILBOĞAZ KAVURMA",
           "description": "",
-          "price": "550,00",
-          "image": "/images/kizilbogaz-kavurma.jpg",
-          "category": "KIRMIZI ETLER",
-          "sectionTitle": "KIRMIZI ETLER"
+          "price": "450,00",
+          "image": "/images/kizilbogaz-kavurma.jpg"
         },
         {
           "id": "burdur-i",
@@ -416,6 +404,14 @@
           "price": "350,00",
           "weight": "200GR",
           "image": "/images/taze-baharatli-tavuk-izgara.jpg"
+        },
+        {
+          "id": "ispanak-yatainda-parmesanli-tavuk",
+          "name": "ISPANAK YATAĞINDA PARMESANLI TAVUK",
+          "description": "",
+          "price": "350,00",
+          "weight": "200GR",
+          "image": "/images/ispanak-yataginida-parmesanli-tavuk.jpg"
         },
         {
           "id": "yourtlu-tavuk-kebap",
@@ -481,92 +477,76 @@
         {
           "id": "ankara-usul-ilikli-kavurma",
           "name": "ANKARA USULÜ İLİKLİ KAVURMA",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "500,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274243965-WhatsApp Image 2025-10-12 at 16.03.30 (1).jpeg"
+          "description": "",
+          "price": "350,00"
         },
         {
           "id": "kuru-fasulye",
           "name": "KURU FASULYE",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "300,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760273944519-WhatsApp Image 2025-10-12 at 15.58.53.jpeg"
+          "description": "",
+          "price": "180,00"
         },
         {
           "id": "taze-fasulye",
           "name": "TAZE FASULYE",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "300,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER"
+          "description": "",
+          "price": "180,00"
         },
         {
           "id": "nohut",
           "name": "NOHUT",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "300,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER"
+          "description": "",
+          "price": "180,00"
         },
         {
           "id": "patlican-yemekleri",
-          "name": "PATLICAN KEBAP",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "450",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274006165-WhatsApp Image 2025-10-12 at 15.58.35.jpeg"
+          "name": "PATLICAN YEMEKLERİ",
+          "description": "",
+          "price": "220,00"
         },
         {
           "id": "tavuk-yemekleri",
           "name": "TAVUK YEMEKLERİ",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "400,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274082423-WhatsApp Image 2025-10-12 at 16.00.50.jpeg"
+          "description": "",
+          "price": "220,00"
         },
         {
           "id": "et-yemekleri",
-          "name": "YAPRAK CİĞER",
+          "name": "ET YEMEKLERİ",
           "description": "",
-          "price": "400,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER"
+          "price": "300,00"
         },
         {
           "id": "pilav-eitleri",
           "name": "PİLAV ÇEŞİTLERİ",
           "description": "",
-          "price": "120,00",
-          "category": "SULU YEMEKLER",
-          "sectionTitle": "SULU YEMEKLER",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760274599999-WhatsApp Image 2025-10-12 at 16.09.45.jpeg"
+          "price": "120,00"
         },
         {
           "id": "piyaz",
           "name": "PİYAZ",
           "description": "",
           "price": "200,00"
-        },
-        {
-          "id": "item-1760275048057",
-          "name": "PATLICAN MUSAKKA",
-          "description": "Pilav ve Söğüş ile servis edilmektedir",
-          "price": "400,00",
-          "category": "SULU YEMEKLER",
-          "image": "",
-          "ingredients": []
         }
       ]
     },
     {
       "title": "MAKARNALAR",
       "items": [
+        {
+          "id": "fettucine-di-mare",
+          "name": "FETTUCİNE Dİ MARE",
+          "description": "KARİDES, KURU DOMATES, KREMA, PESTO SOS, PARMESAN PEYNİR",
+          "price": "400,00",
+          "image": "/images/fettucine-di-mare-final.jpg"
+        },
+        {
+          "id": "cassarecce-cafe-de-paris",
+          "name": "CASSARECCE CAFE DE PARİS",
+          "description": "CAFE DE PARİS SOS, DANA BONFİLE DİLİMLERİ, PARMESAN PEYNİR",
+          "price": "400,00",
+          "image": "/images/cassarecce-cafe-de-paris-new.jpg"
+        },
         {
           "id": "penne-arabiatta",
           "name": "PENNE ARABİATTA",
@@ -592,10 +572,7 @@
           "id": "fettuchini-alfredo",
           "name": "FETTUCHİNİ ALFREDO",
           "description": "KREMA, JÜLYEN TAVUK DİLİMLERİ, MANTAR, PESTO SOS, PARMESAN PEYNİR",
-          "price": "350,00",
-          "category": "MAKARNALAR",
-          "sectionTitle": "MAKARNALAR",
-          "image": "https://raw.githubusercontent.com/busebolova/kizilbogaz1/main/images/restaurant/1760271881595-WhatsApp Image 2025-10-12 at 15.24.19.jpeg"
+          "price": "350,00"
         }
       ]
     }
