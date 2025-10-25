@@ -7,8 +7,10 @@
           "id": "mercimek",
           "name": "MERCİMEK",
           "description": "",
-          "price": "140,00",
-          "image": "/images/mercimek-corbasi.jpg"
+          "price": "160",
+          "image": "/images/mercimek-corbasi.jpg",
+          "category": "ÇORBA",
+          "sectionTitle": "ÇORBA"
         },
         {
           "id": "ezogelin",
