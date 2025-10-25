@@ -224,8 +224,10 @@
           "id": "gvete-kaarli-mantar",
           "name": "GÜVEÇTE KAŞARLI MANTAR",
           "description": "",
-          "price": "180,00",
-          "image": "/images/guvecte-kasarli-mantar.jpg"
+          "price": "250,00",
+          "image": "/images/guvecte-kasarli-mantar.jpg",
+          "category": "ARA SICAKLAR",
+          "sectionTitle": "ARA SICAKLAR"
         },
         {
           "id": "mantar-kavurma",
