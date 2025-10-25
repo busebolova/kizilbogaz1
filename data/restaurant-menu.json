@@ -377,8 +377,10 @@
           "id": "kizilboaz-kavurma",
           "name": "KIZILBOĞAZ KAVURMA",
           "description": "",
-          "price": "450,00",
-          "image": "/images/kizilbogaz-kavurma.jpg"
+          "price": "550,00",
+          "image": "/images/kizilbogaz-kavurma.jpg",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "burdur-i",
