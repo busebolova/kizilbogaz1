@@ -169,12 +169,6 @@
           "image": "/images/kasarli-tost.jpg"
         },
         {
-          "id": "kariik-tost",
-          "name": "KARIŞIK TOST",
-          "description": "",
-          "price": "180,00"
-        },
-        {
           "id": "kavurmali-kaarli-tost",
           "name": "KAVURMALI KAŞARLI TOST",
           "description": "",
