@@ -254,8 +254,10 @@
           "id": "patates-tava",
           "name": "PATATES TAVA",
           "description": "",
-          "price": "180,00",
-          "image": "/images/patates-kizartmasi.jpg"
+          "price": "200,00",
+          "image": "/images/patates-kizartmasi.jpg",
+          "category": "ARA SICAKLAR",
+          "sectionTitle": "ARA SICAKLAR"
         },
         {
           "id": "chicken-tenders",
