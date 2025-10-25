@@ -81,8 +81,10 @@
           "id": "pii-kahvalti",
           "name": "PİŞİ KAHVALTI",
           "description": "PİŞİ, HAŞLANMIŞ YUMURTA, EZİNE PEYNİR, BERGAMA TULUM, ZEYTİN, TAZE YEŞİLLİKLER, DOMATES, SALATALIK",
-          "price": "250,00",
-          "image": "/images/pisi-kahvalti.jpg"
+          "price": "300,00",
+          "image": "/images/pisi-kahvalti.jpg",
+          "category": "KAHVALTILIK",
+          "sectionTitle": "KAHVALTILIK"
         },
         {
           "id": "maydanozlu-peynirli-omlet",
