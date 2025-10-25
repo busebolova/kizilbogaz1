@@ -16,8 +16,10 @@
           "id": "ezogelin",
           "name": "EZOGELİN",
           "description": "",
-          "price": "140,00",
-          "image": "/images/ezogelin-corbasi.jpg"
+          "price": "160,00",
+          "image": "/images/ezogelin-corbasi.jpg",
+          "category": "ÇORBA",
+          "sectionTitle": "ÇORBA"
         },
         {
           "id": "tavuk",
