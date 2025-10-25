@@ -504,9 +504,11 @@
         },
         {
           "id": "patlican-yemekleri",
-          "name": "PATLICAN YEMEKLERİ",
+          "name": "PATLICAN KEBAP",
           "description": "",
-          "price": "220,00"
+          "price": "450,00",
+          "category": "SULU YEMEKLER",
+          "sectionTitle": "SULU YEMEKLER"
         },
         {
           "id": "tavuk-yemekleri",
