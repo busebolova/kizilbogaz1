@@ -312,8 +312,10 @@
           "id": "antrikot-fajita",
           "name": "ANTRİKOT FAJİTA",
           "description": "",
-          "price": "550,00",
-          "weight": "180GR"
+          "price": "600,00",
+          "weight": "180GR",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "hnkar-beendi",
