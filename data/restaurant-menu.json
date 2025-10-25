@@ -328,8 +328,10 @@
           "id": "kertme-kebabi",
           "name": "ÇÖKERTME KEBABI",
           "description": "",
-          "price": "550,00",
-          "image": "/images/cokertme-kebabi.jpg"
+          "price": "600,00",
+          "image": "/images/cokertme-kebabi.jpg",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "beef-straganoff",
