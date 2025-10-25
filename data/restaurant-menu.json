@@ -43,8 +43,10 @@
           "id": "ikembe",
           "name": "İŞKEMBE",
           "description": "",
-          "price": "180,00",
-          "image": "/images/iskembe-corbasi.jpg"
+          "price": "200,00",
+          "image": "/images/iskembe-corbasi.jpg",
+          "category": "ÇORBA",
+          "sectionTitle": "ÇORBA"
         },
         {
           "id": "tarhana",
