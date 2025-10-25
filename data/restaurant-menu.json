@@ -73,7 +73,9 @@
           "id": "pankek-kahvalti",
           "name": "PANKEK KAHVALTI",
           "description": "KIZARMIŞ EKMEK, PANKEK, SUCUK, GÖZ YUMURTA, IZGARA HELLİM, ÇEÇİL PEYNİR, KAŞAR PEYNİR, ÇERİ DOMATES, SALATALIK, ZEYTİN, BAL, NUTELLA, ÇİLEK REÇELİ, KİVİ, ÇİLEK, CEVİZ",
-          "price": "350,00"
+          "price": "400,00",
+          "category": "KAHVALTILIK",
+          "sectionTitle": "KAHVALTILIK"
         },
         {
           "id": "pii-kahvalti",
