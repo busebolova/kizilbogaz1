@@ -64,8 +64,10 @@
           "id": "sicak-kahvalti-tabai",
           "name": "SICAK KAHVALTI TABAĞI",
           "description": "KIZARMIŞ EKMEK, GÖZ YUMURTA, IZGARA SUCUK, IZGARA SOSİS, IZGARA JAMBON, IZGARA HELLİM, IZGARA MANTAR, IZGARA DOMATES, BAHARATLI PATATES TAVA",
-          "price": "300,00",
-          "image": "/images/sicak-kahvalti.jpg"
+          "price": "350,00",
+          "image": "/images/sicak-kahvalti.jpg",
+          "category": "KAHVALTILIK",
+          "sectionTitle": "KAHVALTILIK"
         },
         {
           "id": "pankek-kahvalti",
