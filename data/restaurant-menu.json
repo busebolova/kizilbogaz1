@@ -371,9 +371,11 @@
           "id": "kuzu-klbasti",
           "name": "KUZU KÜLBASTI",
           "description": "",
-          "price": "550,00",
+          "price": "600,00",
           "weight": "200GR",
-          "image": "/images/kuzu-kulbasti.jpg"
+          "image": "/images/kuzu-kulbasti.jpg",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "izgara-kfte",
