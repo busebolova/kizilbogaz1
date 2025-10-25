@@ -208,12 +208,6 @@
           "name": "KARAMEL",
           "description": "",
           "price": "100,00"
-        },
-        {
-          "id": "fistik",
-          "name": "FISTIK",
-          "description": "",
-          "price": "110,00"
         }
       ]
     },
