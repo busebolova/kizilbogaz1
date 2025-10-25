@@ -233,8 +233,10 @@
           "id": "mantar-kavurma",
           "name": "MANTAR KAVURMA",
           "description": "",
-          "price": "150,00",
-          "image": "/images/mantar-tava.jpg"
+          "price": "200,00",
+          "image": "/images/mantar-tava.jpg",
+          "category": "ARA SICAKLAR",
+          "sectionTitle": "ARA SICAKLAR"
         },
         {
           "id": "atitirmalik-sepeti",
