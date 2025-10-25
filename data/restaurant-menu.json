@@ -345,7 +345,9 @@
           "id": "itir-biftek",
           "name": "ÇITIR BİFTEK",
           "description": "",
-          "price": "550,00"
+          "price": "600,00",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "yaprak-kavurma",
