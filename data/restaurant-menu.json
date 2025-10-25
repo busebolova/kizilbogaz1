@@ -361,9 +361,11 @@
           "id": "kuzu-pirzola",
           "name": "KUZU PİRZOLA",
           "description": "",
-          "price": "550,00",
+          "price": "600,00",
           "weight": "200GR",
-          "image": "/images/kuzu-pirzola.jpg"
+          "image": "/images/kuzu-pirzola.jpg",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "kuzu-klbasti",
