@@ -563,13 +563,6 @@
           "image": "/images/fettucine-di-mare-final.jpg"
         },
         {
-          "id": "cassarecce-cafe-de-paris",
-          "name": "CASSARECCE CAFE DE PARİS",
-          "description": "CAFE DE PARİS SOS, DANA BONFİLE DİLİMLERİ, PARMESAN PEYNİR",
-          "price": "400,00",
-          "image": "/images/cassarecce-cafe-de-paris-new.jpg"
-        },
-        {
           "id": "penne-arabiatta",
           "name": "PENNE ARABİATTA",
           "description": "ARABİATTA SOS, SİYAH ZEYTİN DİLİMLERİ, PARMESAN PEYNİR",
