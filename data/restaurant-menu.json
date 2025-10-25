@@ -294,9 +294,11 @@
           "id": "antrikot-izgara",
           "name": "ANTRİKOT IZGARA",
           "description": "",
-          "price": "550,00",
+          "price": "600,00",
           "weight": "200GR",
-          "image": "/images/antrikot-izgara.jpg"
+          "image": "/images/antrikot-izgara.jpg",
+          "category": "KIRMIZI ETLER",
+          "sectionTitle": "KIRMIZI ETLER"
         },
         {
           "id": "tereyali-lokum-tava",
