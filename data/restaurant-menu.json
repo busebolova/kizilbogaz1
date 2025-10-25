@@ -482,7 +482,9 @@
           "id": "kuru-fasulye",
           "name": "KURU FASULYE",
           "description": "",
-          "price": "180,00"
+          "price": "300,00",
+          "category": "SULU YEMEKLER",
+          "sectionTitle": "SULU YEMEKLER"
         },
         {
           "id": "taze-fasulye",
